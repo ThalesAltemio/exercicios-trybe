@@ -1,2 +1,1 @@
-# Local de Praticar git Github
-Trybe bom de mais
+# Meu repositorio de exercicios do git
