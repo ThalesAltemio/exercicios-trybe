@@ -1,1 +1,1 @@
-# Meu repositorio de exercicios do git
+# Meu repositorio de exercicios git :D
